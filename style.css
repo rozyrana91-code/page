@@ -1,11 +1,10 @@
-body
+       body
 {
-background-image:url('IMG_4664.jpg');
-border: 5px solid black;
-background-color:#FFE5B4;
-background-position:center 12%;
-background-size:200px 200px;
-background-repeat: no-repeat;
-  
-
+        margin: 0;
+        height: 200vh; /* Just to create scroll for demo */
+        background-image: url('your-image.jpg'); /* Replace with your image path */
+        background-repeat: no-repeat; /* Prevent tiling */
+        background-size: cover;       /* Make it cover the whole screen */
+        background-position: center;  /* Center the image */
+        background-attachment: fixed; /* Keep it fixed in place */
 }
