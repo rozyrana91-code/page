@@ -2,7 +2,7 @@
 {
         margin: 0;
         height: 400vh; /* Just to create scroll for demo */
-        background-image: url('your-image.jpg'); /* Replace with your image path */
+        background-image: url('IMG_4664.jpg'); /* Replace with your image path */
         background-repeat: no-repeat; /* Prevent tiling */
         background-size: cover;       /* Make it cover the whole screen */
         background-position: center;  /* Center the image */
