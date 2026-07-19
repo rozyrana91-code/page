@@ -1,7 +1,7 @@
        body
 {
         margin: 0;
-        height: 200vh; /* Just to create scroll for demo */
+        height: 400vh; /* Just to create scroll for demo */
         background-image: url('your-image.jpg'); /* Replace with your image path */
         background-repeat: no-repeat; /* Prevent tiling */
         background-size: cover;       /* Make it cover the whole screen */
